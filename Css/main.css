@@ -43,6 +43,10 @@ body
     color: white;
     font-weight: 900;
 }
+.marg-le-15
+{
+	margin-left: 15px;
+}
 .name
 {
 	position: absolute;
@@ -93,16 +97,13 @@ body
 .content-section
 {
 	clear: both;
-}
-.content-section
-{
 	padding-top: 20px;
 }
-.event-class .top-conent,.see-content
+.event-class .top-content,.see-content
 {
 	display: inline-block;
 }
-.top-conent
+.top-content
 {
 	font-size: 18px;
 }
